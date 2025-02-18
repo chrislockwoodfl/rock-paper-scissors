@@ -2,7 +2,7 @@
 #
 # This program simulates a game of Rock, Paper, Scissors with the computer.
 # The human player is asked for their selection, then the computer chooses one at random.
-# If both players choose the same, or the human's choise is invalid,
+# If both players choose the same, or the human's choice is invalid,
 # the human is prompted to choose again.
 # If someone wins, the game stops.
 
